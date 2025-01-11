@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaicao2004&label=Profile%20views&color=0e75b6&style=flat" alt="khaicao2004" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **VueJs**
 
 - 📫 How to reach me **khaicao2004@gmail.com**
 
